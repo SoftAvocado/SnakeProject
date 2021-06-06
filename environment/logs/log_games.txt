@@ -1,0 +1,1117 @@
+
+
+				GAME: 0
+Food location: (240, 200)
+Snake location: (200, 220)
+Shortest path: [[0, 0, 1], [0, 1, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (200, 220)
+0) Move: [0, 0, 1]
+Snake location: (200, 200)
+1) Move: [0, 1, 0]
+Snake location: (220, 200)
+2) Move: [1, 0, 0]
+Food location: (220, 260)
+Snake location: (240, 200)
+Shortest path: [[0, 1, 0], [1, 0, 0], [1, 0, 0], [0, 1, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (240, 200)
+0) Move: [0, 1, 0]
+Snake location: (240, 220)
+1) Move: [1, 0, 0]
+Snake location: (240, 240)
+2) Move: [1, 0, 0]
+Snake location: (240, 260)
+3) Move: [0, 1, 0]
+Food location: (100, 80)
+Snake location: (220, 260)
+Shortest path: [[0, 1, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (220, 260)
+0) Move: [0, 1, 0]
+Snake location: (220, 240)
+1) Move: [1, 0, 0]
+Snake location: (220, 220)
+2) Move: [1, 0, 0]
+Snake location: (220, 200)
+3) Move: [1, 0, 0]
+Snake location: (220, 180)
+4) Move: [1, 0, 0]
+Snake location: (220, 160)
+5) Move: [1, 0, 0]
+Snake location: (220, 140)
+6) Move: [1, 0, 0]
+Snake location: (220, 120)
+7) Move: [1, 0, 0]
+Snake location: (220, 100)
+8) Move: [1, 0, 0]
+Snake location: (220, 80)
+9) Move: [0, 0, 1]
+Snake location: (200, 80)
+10) Move: [1, 0, 0]
+Snake location: (180, 80)
+11) Move: [1, 0, 0]
+Snake location: (160, 80)
+12) Move: [1, 0, 0]
+Snake location: (140, 80)
+13) Move: [1, 0, 0]
+Snake location: (120, 80)
+14) Move: [1, 0, 0]
+Food location: (60, 120)
+Snake location: (100, 80)
+Shortest path: [[0, 0, 1], [1, 0, 0], [0, 1, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (100, 80)
+0) Move: [0, 0, 1]
+Snake location: (100, 100)
+1) Move: [1, 0, 0]
+Snake location: (100, 120)
+2) Move: [0, 1, 0]
+Snake location: (80, 120)
+3) Move: [1, 0, 0]
+Food location: (80, 40)
+Snake location: (60, 120)
+Shortest path: [[0, 1, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 1, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (60, 120)
+0) Move: [0, 1, 0]
+Snake location: (60, 100)
+1) Move: [1, 0, 0]
+Snake location: (60, 80)
+2) Move: [1, 0, 0]
+Snake location: (60, 60)
+3) Move: [1, 0, 0]
+Snake location: (60, 40)
+4) Move: [0, 1, 0]
+Food location: (40, 20)
+Snake location: (80, 40)
+Shortest path: [[0, 0, 1], [0, 0, 1], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (80, 40)
+0) Move: [0, 0, 1]
+Snake location: (80, 20)
+1) Move: [0, 0, 1]
+Snake location: (60, 20)
+2) Move: [1, 0, 0]
+Food location: (320, 60)
+Snake location: (40, 20)
+Shortest path: [[0, 0, 1], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (40, 20)
+0) Move: [0, 0, 1]
+Snake location: (40, 40)
+1) Move: [1, 0, 0]
+Snake location: (40, 60)
+2) Move: [0, 0, 1]
+Snake location: (60, 60)
+3) Move: [1, 0, 0]
+Snake location: (80, 60)
+4) Move: [1, 0, 0]
+Snake location: (100, 60)
+5) Move: [1, 0, 0]
+Snake location: (120, 60)
+6) Move: [1, 0, 0]
+Snake location: (140, 60)
+7) Move: [1, 0, 0]
+Snake location: (160, 60)
+8) Move: [1, 0, 0]
+Snake location: (180, 60)
+9) Move: [1, 0, 0]
+Snake location: (200, 60)
+10) Move: [1, 0, 0]
+Snake location: (220, 60)
+11) Move: [1, 0, 0]
+Snake location: (240, 60)
+12) Move: [1, 0, 0]
+Snake location: (260, 60)
+13) Move: [1, 0, 0]
+Snake location: (280, 60)
+14) Move: [1, 0, 0]
+Snake location: (300, 60)
+15) Move: [1, 0, 0]
+Food location: (20, 20)
+Snake location: (320, 60)
+Shortest path: [[0, 0, 1], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (320, 60)
+0) Move: [0, 0, 1]
+Snake location: (320, 40)
+1) Move: [1, 0, 0]
+Snake location: (320, 20)
+2) Move: [0, 0, 1]
+Snake location: (300, 20)
+3) Move: [1, 0, 0]
+Snake location: (280, 20)
+4) Move: [1, 0, 0]
+Snake location: (260, 20)
+5) Move: [1, 0, 0]
+Snake location: (240, 20)
+6) Move: [1, 0, 0]
+Snake location: (220, 20)
+7) Move: [1, 0, 0]
+Snake location: (200, 20)
+8) Move: [1, 0, 0]
+Snake location: (180, 20)
+9) Move: [1, 0, 0]
+Snake location: (160, 20)
+10) Move: [1, 0, 0]
+Snake location: (140, 20)
+11) Move: [1, 0, 0]
+Snake location: (120, 20)
+12) Move: [1, 0, 0]
+Snake location: (100, 20)
+13) Move: [1, 0, 0]
+Snake location: (80, 20)
+14) Move: [1, 0, 0]
+Snake location: (60, 20)
+15) Move: [1, 0, 0]
+Snake location: (40, 20)
+16) Move: [1, 0, 0]
+Food location: (260, 80)
+Snake location: (20, 20)
+Shortest path: [[0, 0, 1], [1, 0, 0], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (20, 20)
+0) Move: [0, 0, 1]
+Snake location: (20, 40)
+1) Move: [1, 0, 0]
+Snake location: (20, 60)
+2) Move: [1, 0, 0]
+Snake location: (20, 80)
+3) Move: [0, 0, 1]
+Snake location: (40, 80)
+4) Move: [1, 0, 0]
+Snake location: (60, 80)
+5) Move: [1, 0, 0]
+Snake location: (80, 80)
+6) Move: [1, 0, 0]
+Snake location: (100, 80)
+7) Move: [1, 0, 0]
+Snake location: (120, 80)
+8) Move: [1, 0, 0]
+Snake location: (140, 80)
+9) Move: [1, 0, 0]
+Snake location: (160, 80)
+10) Move: [1, 0, 0]
+Snake location: (180, 80)
+11) Move: [1, 0, 0]
+Snake location: (200, 80)
+12) Move: [1, 0, 0]
+Snake location: (220, 80)
+13) Move: [1, 0, 0]
+Snake location: (240, 80)
+14) Move: [1, 0, 0]
+Food location: (360, 80)
+Snake location: (260, 80)
+Shortest path: [[1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (260, 80)
+0) Move: [1, 0, 0]
+Snake location: (280, 80)
+1) Move: [1, 0, 0]
+Snake location: (300, 80)
+2) Move: [1, 0, 0]
+Snake location: (320, 80)
+3) Move: [1, 0, 0]
+Snake location: (340, 80)
+4) Move: [1, 0, 0]
+Food location: (300, 340)
+Snake location: (360, 80)
+Shortest path: [[0, 1, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 1, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (360, 80)
+0) Move: [0, 1, 0]
+Snake location: (360, 100)
+1) Move: [1, 0, 0]
+Snake location: (360, 120)
+2) Move: [1, 0, 0]
+Snake location: (360, 140)
+3) Move: [1, 0, 0]
+Snake location: (360, 160)
+4) Move: [1, 0, 0]
+Snake location: (360, 180)
+5) Move: [1, 0, 0]
+Snake location: (360, 200)
+6) Move: [1, 0, 0]
+Snake location: (360, 220)
+7) Move: [1, 0, 0]
+Snake location: (360, 240)
+8) Move: [1, 0, 0]
+Snake location: (360, 260)
+9) Move: [1, 0, 0]
+Snake location: (360, 280)
+10) Move: [1, 0, 0]
+Snake location: (360, 300)
+11) Move: [1, 0, 0]
+Snake location: (360, 320)
+12) Move: [1, 0, 0]
+Snake location: (360, 340)
+13) Move: [0, 1, 0]
+Snake location: (340, 340)
+14) Move: [1, 0, 0]
+Snake location: (320, 340)
+15) Move: [1, 0, 0]
+Food location: (80, 220)
+Snake location: (300, 340)
+Shortest path: [[0, 1, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (300, 340)
+0) Move: [0, 1, 0]
+Snake location: (300, 320)
+1) Move: [1, 0, 0]
+Snake location: (300, 300)
+2) Move: [1, 0, 0]
+Snake location: (300, 280)
+3) Move: [1, 0, 0]
+Snake location: (300, 260)
+4) Move: [1, 0, 0]
+Snake location: (300, 240)
+5) Move: [1, 0, 0]
+Snake location: (300, 220)
+6) Move: [0, 0, 1]
+Snake location: (280, 220)
+7) Move: [1, 0, 0]
+Snake location: (260, 220)
+8) Move: [1, 0, 0]
+Snake location: (240, 220)
+9) Move: [1, 0, 0]
+Snake location: (220, 220)
+10) Move: [1, 0, 0]
+Snake location: (200, 220)
+11) Move: [1, 0, 0]
+Snake location: (180, 220)
+12) Move: [1, 0, 0]
+Snake location: (160, 220)
+13) Move: [1, 0, 0]
+Snake location: (140, 220)
+14) Move: [1, 0, 0]
+Snake location: (120, 220)
+15) Move: [1, 0, 0]
+Snake location: (100, 220)
+16) Move: [1, 0, 0]
+Food location: (200, 120)
+Snake location: (80, 220)
+Shortest path: [[0, 1, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 1, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (80, 220)
+0) Move: [0, 1, 0]
+Snake location: (80, 200)
+1) Move: [1, 0, 0]
+Snake location: (80, 180)
+2) Move: [1, 0, 0]
+Snake location: (80, 160)
+3) Move: [1, 0, 0]
+Snake location: (80, 140)
+4) Move: [1, 0, 0]
+Snake location: (80, 120)
+5) Move: [0, 1, 0]
+Snake location: (100, 120)
+6) Move: [1, 0, 0]
+Snake location: (120, 120)
+7) Move: [1, 0, 0]
+Snake location: (140, 120)
+8) Move: [1, 0, 0]
+Snake location: (160, 120)
+9) Move: [1, 0, 0]
+Snake location: (180, 120)
+10) Move: [1, 0, 0]
+Food location: (200, 100)
+Snake location: (200, 120)
+Shortest path: [[0, 0, 1]]
+
+				LOOKING FOR FOOD:
+Snake location: (200, 120)
+0) Move: [0, 0, 1]
+Food location: (280, 200)
+Snake location: (200, 100)
+Shortest path: [[0, 1, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 1, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (200, 100)
+0) Move: [0, 1, 0]
+Snake location: (220, 100)
+1) Move: [1, 0, 0]
+Snake location: (240, 100)
+2) Move: [1, 0, 0]
+Snake location: (260, 100)
+3) Move: [1, 0, 0]
+Snake location: (280, 100)
+4) Move: [0, 1, 0]
+Snake location: (280, 120)
+5) Move: [1, 0, 0]
+Snake location: (280, 140)
+6) Move: [1, 0, 0]
+Snake location: (280, 160)
+7) Move: [1, 0, 0]
+Snake location: (280, 180)
+8) Move: [1, 0, 0]
+Food location: (380, 140)
+Snake location: (280, 200)
+Shortest path: [[0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (280, 200)
+0) Move: [0, 0, 1]
+Snake location: (300, 200)
+1) Move: [1, 0, 0]
+Snake location: (320, 200)
+2) Move: [1, 0, 0]
+Snake location: (340, 200)
+3) Move: [1, 0, 0]
+Snake location: (360, 200)
+4) Move: [1, 0, 0]
+Snake location: (380, 200)
+5) Move: [0, 0, 1]
+Snake location: (380, 180)
+6) Move: [1, 0, 0]
+Snake location: (380, 160)
+7) Move: [1, 0, 0]
+Food location: (180, 280)
+Snake location: (380, 140)
+Shortest path: [[0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (380, 140)
+0) Move: [0, 0, 1]
+Snake location: (360, 140)
+1) Move: [1, 0, 0]
+Snake location: (340, 140)
+2) Move: [1, 0, 0]
+Snake location: (320, 140)
+3) Move: [1, 0, 0]
+Snake location: (300, 140)
+4) Move: [1, 0, 0]
+Snake location: (280, 140)
+5) Move: [1, 0, 0]
+Snake location: (260, 140)
+6) Move: [1, 0, 0]
+Snake location: (240, 140)
+7) Move: [1, 0, 0]
+Snake location: (220, 140)
+8) Move: [1, 0, 0]
+Snake location: (200, 140)
+9) Move: [1, 0, 0]
+Snake location: (180, 140)
+10) Move: [0, 0, 1]
+Snake location: (180, 160)
+11) Move: [1, 0, 0]
+Snake location: (180, 180)
+12) Move: [1, 0, 0]
+Snake location: (180, 200)
+13) Move: [1, 0, 0]
+Snake location: (180, 220)
+14) Move: [1, 0, 0]
+Snake location: (180, 240)
+15) Move: [1, 0, 0]
+Snake location: (180, 260)
+16) Move: [1, 0, 0]
+Food location: (200, 320)
+Snake location: (180, 280)
+Shortest path: [[1, 0, 0], [1, 0, 0], [0, 0, 1]]
+
+				LOOKING FOR FOOD:
+Snake location: (180, 280)
+0) Move: [1, 0, 0]
+Snake location: (180, 300)
+1) Move: [1, 0, 0]
+Snake location: (180, 320)
+2) Move: [0, 0, 1]
+Food location: (80, 200)
+Snake location: (200, 320)
+Shortest path: [[0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (200, 320)
+0) Move: [0, 0, 1]
+Snake location: (200, 300)
+1) Move: [1, 0, 0]
+Snake location: (200, 280)
+2) Move: [1, 0, 0]
+Snake location: (200, 260)
+3) Move: [1, 0, 0]
+Snake location: (200, 240)
+4) Move: [1, 0, 0]
+Snake location: (200, 220)
+5) Move: [1, 0, 0]
+Snake location: (200, 200)
+6) Move: [0, 0, 1]
+				GAME OVER
+Score: 18 
+---------------------------------------------------------------------------------
+
+
+
+				GAME: 1
+Food location: (240, 200)
+Snake location: (200, 220)
+Shortest path: [[0, 0, 1], [0, 1, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (200, 220)
+0) Move: [0, 0, 1]
+Snake location: (200, 200)
+1) Move: [0, 1, 0]
+Snake location: (220, 200)
+2) Move: [1, 0, 0]
+Food location: (180, 100)
+Snake location: (240, 200)
+Shortest path: [[0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (240, 200)
+0) Move: [0, 0, 1]
+Snake location: (240, 180)
+1) Move: [1, 0, 0]
+Snake location: (240, 160)
+2) Move: [1, 0, 0]
+Snake location: (240, 140)
+3) Move: [1, 0, 0]
+Snake location: (240, 120)
+4) Move: [1, 0, 0]
+Snake location: (240, 100)
+5) Move: [0, 0, 1]
+Snake location: (220, 100)
+6) Move: [1, 0, 0]
+Snake location: (200, 100)
+7) Move: [1, 0, 0]
+Food location: (180, 120)
+Snake location: (180, 100)
+Shortest path: [[0, 0, 1]]
+
+				LOOKING FOR FOOD:
+Snake location: (180, 100)
+0) Move: [0, 0, 1]
+Food location: (280, 380)
+Snake location: (180, 120)
+Shortest path: [[1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (180, 120)
+0) Move: [1, 0, 0]
+Snake location: (180, 140)
+1) Move: [1, 0, 0]
+Snake location: (180, 160)
+2) Move: [1, 0, 0]
+Snake location: (180, 180)
+3) Move: [1, 0, 0]
+Snake location: (180, 200)
+4) Move: [1, 0, 0]
+Snake location: (180, 220)
+5) Move: [1, 0, 0]
+Snake location: (180, 240)
+6) Move: [1, 0, 0]
+Snake location: (180, 260)
+7) Move: [1, 0, 0]
+Snake location: (180, 280)
+8) Move: [1, 0, 0]
+Snake location: (180, 300)
+9) Move: [1, 0, 0]
+Snake location: (180, 320)
+10) Move: [1, 0, 0]
+Snake location: (180, 340)
+11) Move: [1, 0, 0]
+Snake location: (180, 360)
+12) Move: [1, 0, 0]
+Snake location: (180, 380)
+13) Move: [0, 0, 1]
+Snake location: (200, 380)
+14) Move: [1, 0, 0]
+Snake location: (220, 380)
+15) Move: [1, 0, 0]
+Snake location: (240, 380)
+16) Move: [1, 0, 0]
+Snake location: (260, 380)
+17) Move: [1, 0, 0]
+Food location: (300, 40)
+Snake location: (280, 380)
+Shortest path: [[0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 1, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (280, 380)
+0) Move: [0, 0, 1]
+Snake location: (280, 360)
+1) Move: [1, 0, 0]
+Snake location: (280, 340)
+2) Move: [1, 0, 0]
+Snake location: (280, 320)
+3) Move: [1, 0, 0]
+Snake location: (280, 300)
+4) Move: [1, 0, 0]
+Snake location: (280, 280)
+5) Move: [1, 0, 0]
+Snake location: (280, 260)
+6) Move: [1, 0, 0]
+Snake location: (280, 240)
+7) Move: [1, 0, 0]
+Snake location: (280, 220)
+8) Move: [1, 0, 0]
+Snake location: (280, 200)
+9) Move: [1, 0, 0]
+Snake location: (280, 180)
+10) Move: [1, 0, 0]
+Snake location: (280, 160)
+11) Move: [1, 0, 0]
+Snake location: (280, 140)
+12) Move: [1, 0, 0]
+Snake location: (280, 120)
+13) Move: [1, 0, 0]
+Snake location: (280, 100)
+14) Move: [1, 0, 0]
+Snake location: (280, 80)
+15) Move: [1, 0, 0]
+Snake location: (280, 60)
+16) Move: [1, 0, 0]
+Snake location: (280, 40)
+17) Move: [0, 1, 0]
+Food location: (20, 60)
+Snake location: (300, 40)
+Shortest path: [[0, 1, 0], [0, 1, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (300, 40)
+0) Move: [0, 1, 0]
+Snake location: (300, 60)
+1) Move: [0, 1, 0]
+				GAME OVER
+Score: 5 
+---------------------------------------------------------------------------------
+
+
+
+				GAME: 2
+Food location: (240, 200)
+Snake location: (200, 220)
+Shortest path: [[0, 0, 1], [0, 1, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (200, 220)
+0) Move: [0, 0, 1]
+Snake location: (200, 200)
+1) Move: [0, 1, 0]
+Snake location: (220, 200)
+2) Move: [1, 0, 0]
+Food location: (300, 280)
+Snake location: (240, 200)
+Shortest path: [[0, 1, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (240, 200)
+0) Move: [0, 1, 0]
+Snake location: (240, 220)
+1) Move: [1, 0, 0]
+Snake location: (240, 240)
+2) Move: [1, 0, 0]
+Snake location: (240, 260)
+3) Move: [1, 0, 0]
+Snake location: (240, 280)
+4) Move: [0, 0, 1]
+Snake location: (260, 280)
+5) Move: [1, 0, 0]
+Snake location: (280, 280)
+6) Move: [1, 0, 0]
+Food location: (240, 360)
+Snake location: (300, 280)
+Shortest path: [[0, 1, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 1, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (300, 280)
+0) Move: [0, 1, 0]
+Snake location: (300, 300)
+1) Move: [1, 0, 0]
+Snake location: (300, 320)
+2) Move: [1, 0, 0]
+Snake location: (300, 340)
+3) Move: [1, 0, 0]
+Snake location: (300, 360)
+4) Move: [0, 1, 0]
+Snake location: (280, 360)
+5) Move: [1, 0, 0]
+Snake location: (260, 360)
+6) Move: [1, 0, 0]
+Food location: (100, 40)
+Snake location: (240, 360)
+Shortest path: [[0, 1, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (240, 360)
+0) Move: [0, 1, 0]
+Snake location: (240, 340)
+1) Move: [1, 0, 0]
+Snake location: (240, 320)
+2) Move: [1, 0, 0]
+Snake location: (240, 300)
+3) Move: [1, 0, 0]
+Snake location: (240, 280)
+4) Move: [1, 0, 0]
+Snake location: (240, 260)
+5) Move: [1, 0, 0]
+Snake location: (240, 240)
+6) Move: [1, 0, 0]
+Snake location: (240, 220)
+7) Move: [1, 0, 0]
+Snake location: (240, 200)
+8) Move: [1, 0, 0]
+Snake location: (240, 180)
+9) Move: [1, 0, 0]
+Snake location: (240, 160)
+10) Move: [1, 0, 0]
+Snake location: (240, 140)
+11) Move: [1, 0, 0]
+Snake location: (240, 120)
+12) Move: [1, 0, 0]
+Snake location: (240, 100)
+13) Move: [1, 0, 0]
+Snake location: (240, 80)
+14) Move: [1, 0, 0]
+Snake location: (240, 60)
+15) Move: [1, 0, 0]
+Snake location: (240, 40)
+16) Move: [0, 0, 1]
+Snake location: (220, 40)
+17) Move: [1, 0, 0]
+Snake location: (200, 40)
+18) Move: [1, 0, 0]
+Snake location: (180, 40)
+19) Move: [1, 0, 0]
+Snake location: (160, 40)
+20) Move: [1, 0, 0]
+Snake location: (140, 40)
+21) Move: [1, 0, 0]
+Snake location: (120, 40)
+22) Move: [1, 0, 0]
+Food location: (60, 260)
+Snake location: (100, 40)
+Shortest path: [[0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 1, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (100, 40)
+0) Move: [0, 0, 1]
+Snake location: (100, 60)
+1) Move: [1, 0, 0]
+Snake location: (100, 80)
+2) Move: [1, 0, 0]
+Snake location: (100, 100)
+3) Move: [1, 0, 0]
+Snake location: (100, 120)
+4) Move: [1, 0, 0]
+Snake location: (100, 140)
+5) Move: [1, 0, 0]
+Snake location: (100, 160)
+6) Move: [1, 0, 0]
+Snake location: (100, 180)
+7) Move: [1, 0, 0]
+Snake location: (100, 200)
+8) Move: [1, 0, 0]
+Snake location: (100, 220)
+9) Move: [1, 0, 0]
+Snake location: (100, 240)
+10) Move: [1, 0, 0]
+Snake location: (100, 260)
+11) Move: [0, 1, 0]
+Snake location: (80, 260)
+12) Move: [1, 0, 0]
+Food location: (120, 260)
+Snake location: (60, 260)
+Shortest path: [[0, 1, 0], [0, 1, 0], [1, 0, 0], [1, 0, 0], [0, 1, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (60, 260)
+0) Move: [0, 1, 0]
+Snake location: (60, 240)
+1) Move: [0, 1, 0]
+Snake location: (80, 240)
+2) Move: [1, 0, 0]
+Snake location: (100, 240)
+3) Move: [1, 0, 0]
+Snake location: (120, 240)
+4) Move: [0, 1, 0]
+Food location: (240, 160)
+Snake location: (120, 260)
+Shortest path: [[0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (120, 260)
+0) Move: [0, 0, 1]
+Snake location: (140, 260)
+1) Move: [1, 0, 0]
+Snake location: (160, 260)
+2) Move: [1, 0, 0]
+Snake location: (180, 260)
+3) Move: [1, 0, 0]
+Snake location: (200, 260)
+4) Move: [1, 0, 0]
+Snake location: (220, 260)
+5) Move: [1, 0, 0]
+Snake location: (240, 260)
+6) Move: [0, 0, 1]
+Snake location: (240, 240)
+7) Move: [1, 0, 0]
+Snake location: (240, 220)
+8) Move: [1, 0, 0]
+Snake location: (240, 200)
+9) Move: [1, 0, 0]
+Snake location: (240, 180)
+10) Move: [1, 0, 0]
+Food location: (340, 280)
+Snake location: (240, 160)
+Shortest path: [[0, 1, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 1, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (240, 160)
+0) Move: [0, 1, 0]
+Snake location: (260, 160)
+1) Move: [1, 0, 0]
+Snake location: (280, 160)
+2) Move: [1, 0, 0]
+Snake location: (300, 160)
+3) Move: [1, 0, 0]
+Snake location: (320, 160)
+4) Move: [1, 0, 0]
+Snake location: (340, 160)
+5) Move: [0, 1, 0]
+Snake location: (340, 180)
+6) Move: [1, 0, 0]
+Snake location: (340, 200)
+7) Move: [1, 0, 0]
+Snake location: (340, 220)
+8) Move: [1, 0, 0]
+Snake location: (340, 240)
+9) Move: [1, 0, 0]
+Snake location: (340, 260)
+10) Move: [1, 0, 0]
+Food location: (100, 360)
+Snake location: (340, 280)
+Shortest path: [[1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 1, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (340, 280)
+0) Move: [1, 0, 0]
+Snake location: (340, 300)
+1) Move: [1, 0, 0]
+Snake location: (340, 320)
+2) Move: [1, 0, 0]
+Snake location: (340, 340)
+3) Move: [1, 0, 0]
+Snake location: (340, 360)
+4) Move: [0, 1, 0]
+Snake location: (320, 360)
+5) Move: [1, 0, 0]
+Snake location: (300, 360)
+6) Move: [1, 0, 0]
+Snake location: (280, 360)
+7) Move: [1, 0, 0]
+Snake location: (260, 360)
+8) Move: [1, 0, 0]
+Snake location: (240, 360)
+9) Move: [1, 0, 0]
+Snake location: (220, 360)
+10) Move: [1, 0, 0]
+Snake location: (200, 360)
+11) Move: [1, 0, 0]
+Snake location: (180, 360)
+12) Move: [1, 0, 0]
+Snake location: (160, 360)
+13) Move: [1, 0, 0]
+Snake location: (140, 360)
+14) Move: [1, 0, 0]
+Snake location: (120, 360)
+15) Move: [1, 0, 0]
+Food location: (20, 320)
+Snake location: (100, 360)
+Shortest path: [[0, 1, 0], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (100, 360)
+0) Move: [0, 1, 0]
+Snake location: (100, 340)
+1) Move: [1, 0, 0]
+Snake location: (100, 320)
+2) Move: [0, 0, 1]
+Snake location: (80, 320)
+3) Move: [1, 0, 0]
+Snake location: (60, 320)
+4) Move: [1, 0, 0]
+Snake location: (40, 320)
+5) Move: [1, 0, 0]
+Food location: (40, 160)
+Snake location: (20, 320)
+Shortest path: [[0, 1, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 1, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (20, 320)
+0) Move: [0, 1, 0]
+Snake location: (20, 300)
+1) Move: [1, 0, 0]
+Snake location: (20, 280)
+2) Move: [1, 0, 0]
+Snake location: (20, 260)
+3) Move: [1, 0, 0]
+Snake location: (20, 240)
+4) Move: [1, 0, 0]
+Snake location: (20, 220)
+5) Move: [1, 0, 0]
+Snake location: (20, 200)
+6) Move: [1, 0, 0]
+Snake location: (20, 180)
+7) Move: [1, 0, 0]
+Snake location: (20, 160)
+8) Move: [0, 1, 0]
+Food location: (100, 160)
+Snake location: (40, 160)
+Shortest path: [[1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (40, 160)
+0) Move: [1, 0, 0]
+Snake location: (60, 160)
+1) Move: [1, 0, 0]
+Snake location: (80, 160)
+2) Move: [1, 0, 0]
+Food location: (260, 300)
+Snake location: (100, 160)
+Shortest path: [[0, 1, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (100, 160)
+0) Move: [0, 1, 0]
+Snake location: (100, 180)
+1) Move: [1, 0, 0]
+Snake location: (100, 200)
+2) Move: [1, 0, 0]
+Snake location: (100, 220)
+3) Move: [1, 0, 0]
+Snake location: (100, 240)
+4) Move: [1, 0, 0]
+Snake location: (100, 260)
+5) Move: [1, 0, 0]
+Snake location: (100, 280)
+6) Move: [1, 0, 0]
+Snake location: (100, 300)
+7) Move: [0, 0, 1]
+Snake location: (120, 300)
+8) Move: [1, 0, 0]
+Snake location: (140, 300)
+9) Move: [1, 0, 0]
+Snake location: (160, 300)
+10) Move: [1, 0, 0]
+Snake location: (180, 300)
+11) Move: [1, 0, 0]
+Snake location: (200, 300)
+12) Move: [1, 0, 0]
+Snake location: (220, 300)
+13) Move: [1, 0, 0]
+Snake location: (240, 300)
+14) Move: [1, 0, 0]
+Food location: (20, 40)
+Snake location: (260, 300)
+Shortest path: [[0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (260, 300)
+0) Move: [0, 0, 1]
+Snake location: (260, 280)
+1) Move: [1, 0, 0]
+Snake location: (260, 260)
+2) Move: [1, 0, 0]
+Snake location: (260, 240)
+3) Move: [1, 0, 0]
+Snake location: (260, 220)
+4) Move: [1, 0, 0]
+Snake location: (260, 200)
+5) Move: [1, 0, 0]
+Snake location: (260, 180)
+6) Move: [1, 0, 0]
+Snake location: (260, 160)
+7) Move: [1, 0, 0]
+Snake location: (260, 140)
+8) Move: [1, 0, 0]
+Snake location: (260, 120)
+9) Move: [1, 0, 0]
+Snake location: (260, 100)
+10) Move: [1, 0, 0]
+Snake location: (260, 80)
+11) Move: [1, 0, 0]
+Snake location: (260, 60)
+12) Move: [1, 0, 0]
+Snake location: (260, 40)
+13) Move: [0, 0, 1]
+Snake location: (240, 40)
+14) Move: [1, 0, 0]
+Snake location: (220, 40)
+15) Move: [1, 0, 0]
+Snake location: (200, 40)
+16) Move: [1, 0, 0]
+Snake location: (180, 40)
+17) Move: [1, 0, 0]
+Snake location: (160, 40)
+18) Move: [1, 0, 0]
+Snake location: (140, 40)
+19) Move: [1, 0, 0]
+Snake location: (120, 40)
+20) Move: [1, 0, 0]
+Snake location: (100, 40)
+21) Move: [1, 0, 0]
+Snake location: (80, 40)
+22) Move: [1, 0, 0]
+Snake location: (60, 40)
+23) Move: [1, 0, 0]
+Snake location: (40, 40)
+24) Move: [1, 0, 0]
+Food location: (260, 220)
+Snake location: (20, 40)
+Shortest path: [[0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (20, 40)
+0) Move: [0, 0, 1]
+Snake location: (20, 60)
+1) Move: [1, 0, 0]
+Snake location: (20, 80)
+2) Move: [1, 0, 0]
+Snake location: (20, 100)
+3) Move: [1, 0, 0]
+Snake location: (20, 120)
+4) Move: [1, 0, 0]
+Snake location: (20, 140)
+5) Move: [1, 0, 0]
+Snake location: (20, 160)
+6) Move: [1, 0, 0]
+Snake location: (20, 180)
+7) Move: [1, 0, 0]
+Snake location: (20, 200)
+8) Move: [1, 0, 0]
+Snake location: (20, 220)
+9) Move: [0, 0, 1]
+Snake location: (40, 220)
+10) Move: [1, 0, 0]
+Snake location: (60, 220)
+11) Move: [1, 0, 0]
+Snake location: (80, 220)
+12) Move: [1, 0, 0]
+Snake location: (100, 220)
+13) Move: [1, 0, 0]
+Snake location: (120, 220)
+14) Move: [1, 0, 0]
+Snake location: (140, 220)
+15) Move: [1, 0, 0]
+Snake location: (160, 220)
+16) Move: [1, 0, 0]
+Snake location: (180, 220)
+17) Move: [1, 0, 0]
+Snake location: (200, 220)
+18) Move: [1, 0, 0]
+Snake location: (220, 220)
+19) Move: [1, 0, 0]
+Snake location: (240, 220)
+20) Move: [1, 0, 0]
+Food location: (60, 80)
+Snake location: (260, 220)
+Shortest path: [[0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (260, 220)
+0) Move: [0, 0, 1]
+Snake location: (260, 200)
+1) Move: [1, 0, 0]
+Snake location: (260, 180)
+2) Move: [1, 0, 0]
+Snake location: (260, 160)
+3) Move: [1, 0, 0]
+Snake location: (260, 140)
+4) Move: [1, 0, 0]
+Snake location: (260, 120)
+5) Move: [1, 0, 0]
+Snake location: (260, 100)
+6) Move: [1, 0, 0]
+Snake location: (260, 80)
+7) Move: [0, 0, 1]
+Snake location: (240, 80)
+8) Move: [1, 0, 0]
+Snake location: (220, 80)
+9) Move: [1, 0, 0]
+Snake location: (200, 80)
+10) Move: [1, 0, 0]
+Snake location: (180, 80)
+11) Move: [1, 0, 0]
+Snake location: (160, 80)
+12) Move: [1, 0, 0]
+Snake location: (140, 80)
+13) Move: [1, 0, 0]
+Snake location: (120, 80)
+14) Move: [1, 0, 0]
+Snake location: (100, 80)
+15) Move: [1, 0, 0]
+Snake location: (80, 80)
+16) Move: [1, 0, 0]
+Food location: (180, 200)
+Snake location: (60, 80)
+Shortest path: [[0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (60, 80)
+0) Move: [0, 0, 1]
+Snake location: (60, 100)
+1) Move: [1, 0, 0]
+Snake location: (60, 120)
+2) Move: [1, 0, 0]
+Snake location: (60, 140)
+3) Move: [1, 0, 0]
+Snake location: (60, 160)
+4) Move: [1, 0, 0]
+Snake location: (60, 180)
+5) Move: [1, 0, 0]
+Snake location: (60, 200)
+6) Move: [0, 0, 1]
+Snake location: (80, 200)
+7) Move: [1, 0, 0]
+Snake location: (100, 200)
+8) Move: [1, 0, 0]
+Snake location: (120, 200)
+9) Move: [1, 0, 0]
+Snake location: (140, 200)
+10) Move: [1, 0, 0]
+Snake location: (160, 200)
+11) Move: [1, 0, 0]
+Food location: (100, 160)
+Snake location: (180, 200)
+Shortest path: [[0, 0, 1], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (180, 200)
+0) Move: [0, 0, 1]
+Snake location: (180, 180)
+1) Move: [1, 0, 0]
+Snake location: (180, 160)
+2) Move: [0, 0, 1]
+Snake location: (160, 160)
+3) Move: [1, 0, 0]
+Snake location: (140, 160)
+4) Move: [1, 0, 0]
+Snake location: (120, 160)
+5) Move: [1, 0, 0]
+Food location: (260, 220)
+Snake location: (100, 160)
+Shortest path: [[0, 0, 1], [1, 0, 0], [1, 0, 0], [0, 0, 1], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0], [1, 0, 0]]
+
+				LOOKING FOR FOOD:
+Snake location: (100, 160)
+0) Move: [0, 0, 1]
+Snake location: (100, 180)
+1) Move: [1, 0, 0]
+				GAME OVER
+Score: 18 
+---------------------------------------------------------------------------------
+
