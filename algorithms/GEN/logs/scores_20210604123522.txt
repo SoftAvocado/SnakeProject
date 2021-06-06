@@ -1,0 +1,551 @@
+GENERATION   0
+Snake id:   0
+Snake ATE the food
+Snake ATE the food
+Snake DIED
+Total score:   2
+Snake id:   1
+Snake DIED
+Total score:   2
+Snake id:   2
+Snake DIED
+Total score:   2
+Snake id:   3
+Snake DIED
+Total score:   2
+Snake id:   4
+Snake DIED
+Total score:   2
+Snake id:   5
+Snake DIED
+Total score:   2
+Snake id:   6
+Snake DIED
+Total score:   2
+Snake id:   7
+Snake DIED
+Total score:   2
+Snake id:   8
+Snake DIED
+Total score:   2
+Snake id:   9
+Snake DIED
+Total score:   2
+Snake id:  10
+Snake DIED
+Total score:   2
+Snake id:  11
+Snake DIED
+Total score:   2
+Snake id:  12
+Snake DIED
+Total score:   2
+Snake id:  13
+Snake DIED
+Total score:   2
+Snake id:  14
+Snake DIED
+Total score:   2
+Snake id:  15
+Snake DIED
+Total score:   2
+Snake id:  16
+Snake DIED
+Total score:   2
+Snake id:  17
+Snake DIED
+Total score:   2
+Snake id:  18
+Snake DIED
+Total score:   2
+Snake id:  19
+Snake DIED
+Total score:   2
+Snake id:  20
+Snake DIED
+Total score:   2
+Snake id:  21
+Snake ATE the food
+Snake DIED
+Total score:   3
+Snake id:  22
+Snake ATE the food
+Snake DIED
+Total score:   4
+Snake id:  23
+Snake DIED
+Total score:   4
+Snake id:  24
+Snake DIED
+Total score:   4
+Snake id:  25
+Snake DIED
+Total score:   4
+Snake id:  26
+Snake ATE the food
+Snake DIED
+Total score:   5
+Snake id:  27
+Snake DIED
+Total score:   5
+Snake id:  28
+Snake DIED
+Total score:   5
+Snake id:  29
+Snake ATE the food
+Snake DIED
+Total score:   6
+Snake id:  30
+Snake DIED
+Total score:   6
+Snake id:  31
+Snake DIED
+Total score:   6
+Snake id:  32
+Snake DIED
+Total score:   6
+Snake id:  33
+Snake DIED
+Total score:   6
+Snake id:  34
+Snake DIED
+Total score:   6
+Snake id:  35
+Snake ATE the food
+Snake DIED
+Total score:   7
+Snake id:  36
+Snake ATE the food
+Snake ATE the food
+Snake DIED
+Total score:   9
+Snake id:  37
+Snake ATE the food
+Snake DIED
+Total score:  10
+Snake id:  38
+Snake ATE the food
+Snake DIED
+Total score:  11
+Snake id:  39
+Snake DIED
+Total score:  11
+Snake id:  40
+Snake ATE the food
+Snake DIED
+Total score:  12
+Snake id:  41
+Snake ATE the food
+Snake DIED
+Total score:  13
+Snake id:  42
+Snake DIED
+Total score:  13
+Snake id:  43
+Snake DIED
+Total score:  13
+Snake id:  44
+Snake DIED
+Total score:  13
+Snake id:  45
+Snake DIED
+Total score:  13
+Snake id:  46
+Snake DIED
+Total score:  13
+Snake id:  47
+Snake DIED
+Total score:  13
+Snake id:  48
+Snake DIED
+Total score:  13
+Snake id:  49
+Snake ATE the food
+Snake DIED
+Total score:  14
+Snake id:  50
+Snake DIED
+Total score:  14
+Snake id:  51
+Snake DIED
+Total score:  14
+Snake id:  52
+Snake DIED
+Total score:  14
+Snake id:  53
+Snake DIED
+Total score:  14
+Snake id:  54
+Snake DIED
+Total score:  14
+Snake id:  55
+Snake DIED
+Total score:  14
+Snake id:  56
+Snake DIED
+Total score:  14
+Snake id:  57
+Snake DIED
+Total score:  14
+Snake id:  58
+Snake DIED
+Total score:  14
+Snake id:  59
+Snake DIED
+Total score:  14
+Snake id:  60
+Snake DIED
+Total score:  14
+Snake id:  61
+Snake DIED
+Total score:  14
+Snake id:  62
+Snake DIED
+Total score:  14
+Snake id:  63
+Snake DIED
+Total score:  14
+Snake id:  64
+Snake DIED
+Total score:  14
+Snake id:  65
+Snake DIED
+Total score:  14
+Snake id:  66
+Snake DIED
+Total score:  14
+Snake id:  67
+Snake DIED
+Total score:  14
+Snake id:  68
+Snake DIED
+Total score:  14
+Snake id:  69
+Snake DIED
+Total score:  14
+Snake id:  70
+Snake DIED
+Total score:  14
+Snake id:  71
+Snake DIED
+Total score:  14
+Snake id:  72
+Snake DIED
+Total score:  14
+Snake id:  73
+Snake DIED
+Total score:  14
+Snake id:  74
+Snake DIED
+Total score:  14
+Snake id:  75
+Snake DIED
+Total score:  14
+Snake id:  76
+Snake DIED
+Total score:  14
+Snake id:  77
+Snake DIED
+Total score:  14
+Snake id:  78
+Snake DIED
+Total score:  14
+Snake id:  79
+Snake ATE the food
+Snake DIED
+Total score:  15
+Snake id:  80
+Snake DIED
+Total score:  15
+Snake id:  81
+Snake DIED
+Total score:  15
+Snake id:  82
+Snake ATE the food
+Snake DIED
+Total score:  16
+Snake id:  83
+Snake ATE the food
+Snake DIED
+Total score:  17
+Snake id:  84
+Snake DIED
+Total score:  17
+Snake id:  85
+Snake DIED
+Total score:  17
+Snake id:  86
+Snake DIED
+Total score:  17
+Snake id:  87
+Snake DIED
+Total score:  17
+Snake id:  88
+Snake DIED
+Total score:  17
+Snake id:  89
+Snake DIED
+Total score:  17
+Snake id:  90
+Snake ATE the food
+Snake DIED
+Total score:  18
+Snake id:  91
+Snake DIED
+Total score:  18
+Snake id:  92
+Snake DIED
+Total score:  18
+Snake id:  93
+Snake DIED
+Total score:  18
+Snake id:  94
+Snake DIED
+Total score:  18
+Snake id:  95
+Snake DIED
+Total score:  18
+Snake id:  96
+Snake DIED
+Total score:  18
+Snake id:  97
+Snake ATE the food
+Snake ATE the food
+Snake DIED
+Total score:  20
+Snake id:  98
+Snake DIED
+Total score:  20
+Snake id:  99
+Snake DIED
+Total score:  20
+GENERATION RESULTS
+Scores:   0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  1
+  1
+  1
+  1
+  1
+  1
+  1
+  1
+  1
+  1
+  1
+  1
+  1
+  1
+  2
+  2
+  2
+Top 25:   0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  1
+  1
+  1
+  1
+  1
+  1
+  1
+  1
+  1
+  1
+  1
+  1
+  1
+  1
+  2
+  2
+  2
+Max score in generation   0 =   2
+GENERATION   1
+Snake id:   0
+Snake ATE the food
+Snake DIED
+Total score:   1
+Snake id:   1
+Snake DIED
+Total score:   1
+Snake id:   2
+Snake DIED
+Total score:   1
+Snake id:   3
+Snake DIED
+Total score:   1
+Snake id:   4
+Snake DIED
+Total score:   1
+Snake id:   5
+Snake DIED
+Total score:   1
+Snake id:   6
+Snake DIED
+Total score:   1
+Snake id:   7
+Snake DIED
+Total score:   1
+Snake id:   8
+Snake DIED
+Total score:   1
+Snake id:   9
+Snake DIED
+Total score:   1
+Snake id:  10
+Snake DIED
+Total score:   1
+Snake id:  11
+Snake DIED
+Total score:   1
+Snake id:  12
+Snake DIED
+Total score:   1
+Snake id:  13
+Snake DIED
+Total score:   1
+Snake id:  14
+Snake DIED
+Total score:   1
+Snake id:  15
+Snake DIED
+Total score:   1
+Snake id:  16
+Snake DIED
+Total score:   1
+Snake id:  17
+Snake DIED
+Total score:   1
+Snake id:  18
+Snake DIED
+Total score:   1
+Snake id:  19
+Snake DIED
+Total score:   1
+Snake id:  20
+Snake DIED
+Total score:   1
+Snake id:  21
+Snake ATE the food
+Snake DIED
+Total score:   2
+Snake id:  22
+Snake ATE the food
+Snake DIED
+Total score:   3
+Snake id:  23
+Snake DIED
+Total score:   3
+Snake id:  24
+Snake DIED
+Total score:   3
+Snake id:  25
+Snake DIED
+Total score:   3
+Snake id:  26
+Snake ATE the food
+Snake DIED
+Total score:   4
+Snake id:  27
+Snake DIED
+Total score:   4
+Snake id:  28
+Snake DIED
+Total score:   4
+Snake id:  29
+Snake ATE the food
+Snake ATE the food
+Snake DIED
+Total score:   6
+Snake id:  30
+Snake DIED
+Total score:   6
+Snake id:  31
+Snake DIED
+Total score:   6

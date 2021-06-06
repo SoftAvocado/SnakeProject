@@ -1,0 +1,30 @@
+GENERATION   0
+
+Max score in generation   0 =  11
+GENERATION   1
+
+Max score in generation   1 =  12
+GENERATION   2
+
+Max score in generation   2 =  10
+GENERATION   3
+
+Max score in generation   3 =  13
+GENERATION   4
+
+Max score in generation   4 =  10
+GENERATION   5
+
+Max score in generation   5 =  11
+GENERATION   6
+
+Max score in generation   6 =  15
+GENERATION   7
+
+Max score in generation   7 =  15
+GENERATION   8
+
+Max score in generation   8 =  14
+GENERATION   9
+
+Max score in generation   9 =  11

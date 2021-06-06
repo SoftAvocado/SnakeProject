@@ -1,0 +1,2 @@
+GENERATION   0
+Snake id:   0

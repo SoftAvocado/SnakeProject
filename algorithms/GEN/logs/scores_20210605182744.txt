@@ -1,0 +1,3 @@
+GENERATION   0
+
+Max score in generation   0 =  18
